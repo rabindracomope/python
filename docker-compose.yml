@@ -1,6 +1,6 @@
 services:
   flask:
-    image: apurwasingh/flask
+    image: rabi143/python
     container_name: flask
     ports:
       - "8001:7000"
